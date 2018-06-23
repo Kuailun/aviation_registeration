@@ -12,7 +12,7 @@ namespace Reg
     {
         public static FileStream fileStream;
         public static StreamWriter streamWriter;
-        public static string airline = "GX Airlines";
+        public static string airline = "ZYB Lily Jet";
         public static int  count = 0;
         public struct data_struct
         {
@@ -29,8 +29,8 @@ namespace Reg
         }
         static void Main(string[] args)
         {
-            string path_in = "C:\\Users\\Chaiyc\\Desktop\\reg.txt";
-            fileStream = new FileStream("C:\\Users\\Chaiyc\\Desktop\\regg.txt", FileMode.Create);
+            string path_in = "G:\\SoftwareWorkspace\\C#\\aviation_registeration\\Reg\\document\\reg.txt";
+            fileStream = new FileStream("G:\\SoftwareWorkspace\\C#\\aviation_registeration\\Reg\\document\\regg.txt", FileMode.Create);
             streamWriter = new StreamWriter(fileStream, Encoding.Default);
             
             using (StreamReader sr = new StreamReader(path_in, Encoding.Default))
@@ -72,6 +72,11 @@ namespace Reg
                                 {
                                     data.delivered = s5[2] + "/" + GetMonth(s5[1]) + "/" + GetDay(s5[0]);
                                     data.status = s5[3];
+                                }
+                                else if(int.TryParse(s5[1],out r))
+                                {
+                                    data.delivered = s5[1] + "/" + GetMonth(s5[0])+"/"+GetDay("1.");
+                                    data.status = s5[2];
                                 }
                             }
                         }

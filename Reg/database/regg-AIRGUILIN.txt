@@ -1,0 +1,11 @@
+B-1032	Airbus		A320	A320-232(WL)  		2017/11/02  	Active	Air Guilin
+B-1037	Airbus		A320	A320-214(WL)  		2017/12/21  	Active	Air Guilin
+B-1039	Airbus		A320	A320-214(WL)  		2017/12/29  	Active	Air Guilin
+B-1040	Airbus		A320	A320-232(WL)  		2018/4/16  	Active	Air Guilin
+B-1060	Airbus		A320	A320-214(WL)  		2018/2/28  	Active	Air Guilin
+B-1061	Airbus		A320	A320-214(WL)  		2018/3/22  	Active	Air Guilin
+B-301C	Airbus		A320	A320-214(WL)  		  	On Order	Air Guilin
+B-6192	Airbus		A319	A319-132  		2016/5/06  	Active	Air Guilin
+B-6193	Airbus		A319	A319-133  		2016/6/02  	Active	Air Guilin
+B-6417	Airbus		A319	A319-133  		2016/6/22  	Active	Air Guilin
+B-8663	Airbus		A320	A320-232(WL)  		2017/4/25  	Active	Air Guilin

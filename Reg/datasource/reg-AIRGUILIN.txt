@@ -1,0 +1,69 @@
+<html>
+ <head></head>
+ <body>   
+  <a href="/photo/search?type=A320&amp;codeId=njw0iWw8" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/njw0iWw8" id="photolink_A320_njw0iWw8_0"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1032-Air-Guilin/njw0iWw8" title="View detailed Information about this airframe"> B-1032 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   02. Nov 2017   Active   B-LCD   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A320/njw0iWw8" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=awG1sOpD" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/awG1sOpD" id="photolink_A320_awG1sOpD_1"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1037-Air-Guilin/awG1sOpD" title="View detailed Information about this airframe"> B-1037 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   21. Dec 2017   Active   
+  <span class="testreg">F-WWTP</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/awG1sOpD" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1039-Air-Guilin/yEKpHPeY" title="View detailed Information about this airframe"> B-1039 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   29. Dec 2017   Active   
+  <span class="testreg">F-WWBZ</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/yEKpHPeY" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=2XPjTDgx" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/2XPjTDgx" id="photolink_A320_2XPjTDgx_3"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1040-Air-Guilin/2XPjTDgx" title="View detailed Information about this airframe"> B-1040 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   16. Apr 2018   Active   B-LCC   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC, 
+  <span class="ProdListDesc">Guangxi</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A320/2XPjTDgx" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=dwr0u3no" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/dwr0u3no" id="photolink_A320_dwr0u3no_4"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1060-Air-Guilin/dwr0u3no" title="View detailed Information about this airframe"> B-1060 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   28. Feb 2018   Active   
+  <span class="testreg">F-WWDC</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> DAE Capital   
+  <a href="/correction/Airbus/A320/dwr0u3no" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=gYNAI3G5" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/gYNAI3G5" id="photolink_A320_gYNAI3G5_5"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1061-Air-Guilin/gYNAI3G5" title="View detailed Information about this airframe"> B-1061 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   22. Mar 2018   Active   
+  <span class="testreg">F-WWBO</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> DAE Capital   
+  <a href="/correction/Airbus/A320/gYNAI3G5" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-301C-Air-Guilin/L6yluoLr" title="View detailed Information about this airframe"> B-301C </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>     On Order   
+  <span class="testreg">B-000V</span>     
+  <a href="/correction/Airbus/A320/L6yluoLr" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=9bknFGnb" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/9bknFGnb" id="photolink_A319_9bknFGnb_7"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6192-Air-Guilin/9bknFGnb" title="View detailed Information about this airframe"> B-6192 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   06. May 2016   Active   
+  <span class="testreg">D-AVXG</span>     
+  <a href="/correction/Airbus/A319/9bknFGnb" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=3kAOiyYr" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/3kAOiyYr" id="photolink_A319_3kAOiyYr_8"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6193-Air-Guilin/3kAOiyYr" title="View detailed Information about this airframe"> B-6193 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-133</a>   02. Jun 2016   Active   
+  <span class="testreg">D-AVYV</span>     
+  <a href="/correction/Airbus/A319/3kAOiyYr" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>
+<html>
+ <head></head>
+ <body>   
+  <a href="/photo/search?type=A319&amp;codeId=M4ywhJxb" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/M4ywhJxb" id="photolink_A319_M4ywhJxb_0"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6417-Air-Guilin/M4ywhJxb" title="View detailed Information about this airframe"> B-6417 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-133</a>   22. Jun 2016   Active   
+  <span class="testreg">D-AVYJ</span>     
+  <a href="/correction/Airbus/A319/M4ywhJxb" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=k9Pjc7MO" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/k9Pjc7MO" id="photolink_A320_k9Pjc7MO_1"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8663-Air-Guilin/k9Pjc7MO" title="View detailed Information about this airframe"> B-8663 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   25. Apr 2017   Active   D-AAAP   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A320/k9Pjc7MO" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>

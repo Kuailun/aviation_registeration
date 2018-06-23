@@ -1,0 +1,6 @@
+E:\Workspace\C#\Reg\Reg\bin\Debug\Reg.exe.config
+E:\Workspace\C#\Reg\Reg\bin\Debug\Reg.exe
+E:\Workspace\C#\Reg\Reg\bin\Debug\Reg.pdb
+E:\Workspace\C#\Reg\Reg\obj\Debug\Reg.csprojResolveAssemblyReference.cache
+E:\Workspace\C#\Reg\Reg\obj\Debug\Reg.exe
+E:\Workspace\C#\Reg\Reg\obj\Debug\Reg.pdb

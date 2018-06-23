@@ -1,0 +1,15 @@
+B-2091	Boeing		777	777-FFT  		2014/8/29  	Active	Air China Cargo
+B-2092	Boeing		777	777-FFT  		2015/2/27  	Active	Air China Cargo
+B-2093	Boeing		777	777-FFT  		2015/7/13  	Active	Air China Cargo
+B-2094	Boeing		777	777-FFT  		2015/8/31  	Active	Air China Cargo
+B-2095	Boeing		777	777-FFT  		2013/12/16  	Active	Air China Cargo
+B-2096	Boeing		777	777-FFT  		2014/3/12  	Active	Air China Cargo
+B-2097	Boeing		777	777-FFT  		2014/3/31  	Active	Air China Cargo
+B-2098	Boeing		777	777-FFT  		2014/6/30  	Active	Air China Cargo
+B-2409	Boeing		747	747-412F  		  		Air China Cargo
+B-2475	Boeing		747	747-4FTF  		2005/12/16  	Active	Air China Cargo
+B-2476	Boeing		747	747-4FTF  		2006/4/28  	Active	Air China Cargo
+B-2836	Boeing		757	757-2Z0(PCF)  		2014/4/22  	Active	Air China Cargo
+B-2841	Boeing		757	757-2Z0(PCF)  		2013/12/30  	Active	Air China Cargo
+B-2855	Boeing		757	757-2Z0(PCF)  		2014/7/14  	Active	Air China Cargo
+B-2856	Boeing		757	757-2Z0(PCF)  		2013/11/08  	Active	Air China Cargo

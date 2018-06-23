@@ -1,0 +1,9 @@
+B-2076	Boeing		777	777-F6N  		2010/2/26  	Active	China Cargo Airlines
+B-2077	Boeing		777	777-F6N  		2010/3/23  	Active	China Cargo Airlines
+B-2078	Boeing		777	777-F6N  		2010/7/28  	Active	China Cargo Airlines
+B-2079	Boeing		777	777-F6N  		2010/8/09  	Active	China Cargo Airlines
+B-2082	Boeing		777	777-F6N  		2011/6/27  	Active	China Cargo Airlines
+B-2083	Boeing		777	777-F6N  		2011/7/28  	Active	China Cargo Airlines
+B-2425	Boeing		747	747-40BF(ER)  		2006/9/13  	Active	China Cargo Airlines
+B-2426	Boeing		747	747-40BF(ER)  		2007/9/13  	Active	China Cargo Airlines
+B-2428	Boeing		747	747-412F  		2011/6/01  	Active	China Cargo Airlines

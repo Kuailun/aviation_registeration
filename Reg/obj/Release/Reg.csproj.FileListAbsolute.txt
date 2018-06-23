@@ -1,0 +1,5 @@
+E:\Workspace\C#\Reg\Reg\bin\Release\Reg.exe.config
+E:\Workspace\C#\Reg\Reg\bin\Release\Reg.exe
+E:\Workspace\C#\Reg\Reg\bin\Release\Reg.pdb
+E:\Workspace\C#\Reg\Reg\obj\Release\Reg.exe
+E:\Workspace\C#\Reg\Reg\obj\Release\Reg.pdb

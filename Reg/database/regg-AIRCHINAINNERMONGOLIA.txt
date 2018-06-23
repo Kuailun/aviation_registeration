@@ -1,0 +1,4 @@
+B-1458	Boeing		737	737-89L(WL)  		2017/7/13  	Active	Air China Inner Mongolia
+B-1769	Boeing		737	737-89L(WL)  		2015/6/05  	Active	Air China Inner Mongolia
+B-2670	Boeing		737	737-89L  		2014/5/28  	Active	Air China Inner Mongolia
+B-5226	Boeing		737	737-79L(WL)  		2013/12/31  	Active	Air China Inner Mongolia

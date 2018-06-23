@@ -1,0 +1,226 @@
+<html>
+ <head></head>
+ <body>   
+  <a href="/photo/search?type=A319&amp;codeId=aw1oHO85" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/aw1oHO85" id="photolink_A319_aw1oHO85_0"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-1011-Chengdu-Airlines/aw1oHO85" title="View detailed Information about this airframe"> B-1011 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115(WL)</a>   17. Jan 2018   Active   
+  <span class="testreg">B-000U</span>     
+  <a href="/correction/Airbus/A319/aw1oHO85" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1071-Chengdu-Airlines/O9P0f3Aw" title="View detailed Information about this airframe"> B-1071 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   30. Mar 2018   Stored   
+  <span class="testreg">B-000J</span>     
+  <a href="/correction/Airbus/A320/O9P0f3Aw" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A319/B-1093-Chengdu-Airlines/B8ayT0Jg" title="View detailed Information about this airframe"> B-1093 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115(WL)</a>     On Order       
+  <a href="/correction/Airbus/A319/B8ayT0Jg" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1095-Chengdu-Airlines/87eJtNRw" title="View detailed Information about this airframe"> B-1095 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>     On Order   
+  <span class="testreg">B-000A</span>     
+  <a href="/correction/Airbus/A320/87eJtNRw" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=4eJ7cWx9" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/4eJ7cWx9" id="photolink_A320_4eJ7cWx9_4"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1630-Chengdu-Airlines/4eJ7cWx9" title="View detailed Information about this airframe"> B-1630 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   17. Nov 2014   Active   
+  <span class="testreg">F-WWDI</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/4eJ7cWx9" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=8j1bidRO" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/8j1bidRO" id="photolink_A320_8j1bidRO_5"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1631-Chengdu-Airlines/8j1bidRO" title="View detailed Information about this airframe"> B-1631 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   28. Oct 2014   Active   
+  <span class="testreg">F-WWIG</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/8j1bidRO" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=eQRAhKML" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/eQRAhKML" id="photolink_A320_eQRAhKML_6"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1632-Chengdu-Airlines/eQRAhKML" title="View detailed Information about this airframe"> B-1632 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   17. Nov 2014   Active   
+  <span class="testreg">F-WWBC</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/eQRAhKML" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=adJqhQNW" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/adJqhQNW" id="photolink_A320_adJqhQNW_7"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1633-Chengdu-Airlines/adJqhQNW" title="View detailed Information about this airframe"> B-1633 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   25. Nov 2014   Active   
+  <span class="testreg">F-WWBX</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/adJqhQNW" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=jy8luDDY" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/jy8luDDY" id="photolink_A320_jy8luDDY_8"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1856-Chengdu-Airlines/jy8luDDY" title="View detailed Information about this airframe"> B-1856 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   24. Mar 2014   Active   OE-LEP     
+  <a href="/correction/Airbus/A320/jy8luDDY" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=ARJ21&amp;codeId=R3KwIKp" class="airframe-photo-link" data-link="/photos/airframe/COMAC/ARJ21/R3KwIKp" id="photolink_ARJ21_R3KwIKp_9"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/COMAC/ARJ21/B-3321-Chengdu-Airlines/R3KwIKp" title="View detailed Information about this airframe"> B-3321 </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   26. Nov 2015   Active   
+  <span class="testreg">B-010L</span>     
+  <a href="/correction/COMAC/ARJ21/R3KwIKp" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=ARJ21&amp;codeId=kpxDIDe" class="airframe-photo-link" data-link="/photos/airframe/COMAC/ARJ21/kpxDIDe" id="photolink_ARJ21_kpxDIDe_10"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/COMAC/ARJ21/B-3322-Chengdu-Airlines/kpxDIDe" title="View detailed Information about this airframe"> B-3322 </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   29. Sep 2016   Active   
+  <span class="testreg">B-938L</span>     
+  <a href="/correction/COMAC/ARJ21/kpxDIDe" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=ARJ21&amp;codeId=bwrbfQ1" class="airframe-photo-link" data-link="/photos/airframe/COMAC/ARJ21/bwrbfQ1" id="photolink_ARJ21_bwrbfQ1_11"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/COMAC/ARJ21/B-3386-Chengdu-Airlines/bwrbfQ1" title="View detailed Information about this airframe"> B-3386 </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   19. Oct 2017   Active   
+  <span class="testreg">B-001R</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/COMAC/ARJ21/bwrbfQ1" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/COMAC/ARJ21/B-3387-Chengdu-Airlines/21a5hqR" title="View detailed Information about this airframe"> B-3387 </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   28. Dec 2017   Active   
+  <span class="testreg">B-001S</span>     
+  <a href="/correction/COMAC/ARJ21/21a5hqR" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/COMAC/ARJ21/B-3388-Chengdu-Airlines/xOkRTL9" title="View detailed Information about this airframe"> B-3388 </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   23. Mar 2018   Active       
+  <a href="/correction/COMAC/ARJ21/xOkRTL9" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=yJNgiYD4" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/yJNgiYD4" id="photolink_A319_yJNgiYD4_14"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6163-Chengdu-Airlines/yJNgiYD4" title="View detailed Information about this airframe"> B-6163 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115</a>   22. Jan 2010   Active   
+  <span class="testreg">D-AVXR</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> GECAS   
+  <a href="/correction/Airbus/A319/yJNgiYD4" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=3x94hyXR" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/3x94hyXR" id="photolink_A319_3x94hyXR_15"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6229-Chengdu-Airlines/3x94hyXR" title="View detailed Information about this airframe"> B-6229 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115</a>   06. Mar 2010   Active
+  <a href="/correction/Airbus/A319/3x94hyXR" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=a8Qbfl0N" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/a8Qbfl0N" id="photolink_A320_a8Qbfl0N_16"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6728-Chengdu-Airlines/a8Qbfl0N" title="View detailed Information about this airframe"> B-6728 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   01. Oct 2010   Active   D-ABDE   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/a8Qbfl0N" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=Nx0aU0O6" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/Nx0aU0O6" id="photolink_A320_Nx0aU0O6_17"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6729-Chengdu-Airlines/Nx0aU0O6" title="View detailed Information about this airframe"> B-6729 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   29. Dec 2010   Active   D-ABDF   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/Nx0aU0O6" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=oQxwc0nO" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/oQxwc0nO" id="photolink_A320_oQxwc0nO_18"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6730-Chengdu-Airlines/oQxwc0nO" title="View detailed Information about this airframe"> B-6730 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   09. Oct 2010   Active   D-ABDG   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/oQxwc0nO" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=ydKGCkjq" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/ydKGCkjq" id="photolink_A320_ydKGCkjq_19"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6850-Chengdu-Airlines/ydKGCkjq" title="View detailed Information about this airframe"> B-6850 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   17. Nov 2011   Active   OE-IBB   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A320/ydKGCkjq" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=QlwAhREA" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/QlwAhREA" id="photolink_A320_QlwAhREA_20"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6900-Chengdu-Airlines/QlwAhREA" title="View detailed Information about this airframe"> B-6900 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   10. Jan 2012   Active   D-ABDC   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/QlwAhREA" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=d4YZU75k" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/d4YZU75k" id="photolink_A320_d4YZU75k_21"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6907-Chengdu-Airlines/d4YZU75k" title="View detailed Information about this airframe"> B-6907 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   10. Feb 2012   Active   OE-LEI   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/d4YZU75k" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=xGOpSyq5" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/xGOpSyq5" id="photolink_A320_xGOpSyq5_22"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6940-Chengdu-Airlines/xGOpSyq5" title="View detailed Information about this airframe"> B-6940 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   19. May 2012   Active   OE-IAC   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> GECAS   
+  <a href="/correction/Airbus/A320/xGOpSyq5" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=BDeZTPbl" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/BDeZTPbl" id="photolink_A320_BDeZTPbl_23"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8162-Chengdu-Airlines/BDeZTPbl" title="View detailed Information about this airframe"> B-8162 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   13. Jul 2015   Active   D-ABFU   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Bocomm Leasing   
+  <a href="/correction/Airbus/A320/BDeZTPbl" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=WdR9fRgO" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/WdR9fRgO" id="photolink_A320_WdR9fRgO_24"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8185-Chengdu-Airlines/WdR9fRgO" title="View detailed Information about this airframe"> B-8185 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   13. Aug 2015   Active   D-ABNA   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Bocomm Leasing   
+  <a href="/correction/Airbus/A320/WdR9fRgO" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=ax52IwkK" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/ax52IwkK" id="photolink_A320_ax52IwkK_25"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8186-Chengdu-Airlines/ax52IwkK" title="View detailed Information about this airframe"> B-8186 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   29. Jul 2015   Active   D-ABFZ   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Bocomm Leasing   
+  <a href="/correction/Airbus/A320/ax52IwkK" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=8l4jud6R" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/8l4jud6R" id="photolink_A320_8l4jud6R_26"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8342-Chengdu-Airlines/8l4jud6R" title="View detailed Information about this airframe"> B-8342 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   17. Nov 2015   Active   
+  <span class="testreg">F-WWDA</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/8l4jud6R" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=Q8Wxi69A" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/Q8Wxi69A" id="photolink_A320_Q8Wxi69A_27"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8345-Chengdu-Airlines/Q8Wxi69A" title="View detailed Information about this airframe"> B-8345 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   31. Dec 2015   Active   F-WHUL   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/Q8Wxi69A" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=RaWrckXD" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/RaWrckXD" id="photolink_A320_RaWrckXD_28"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8606-Chengdu-Airlines/RaWrckXD" title="View detailed Information about this airframe"> B-8606 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   05. Aug 2016   Active   
+  <span class="testreg">B-000H</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/RaWrckXD" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=n9OMfWoZ" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/n9OMfWoZ" id="photolink_A320_n9OMfWoZ_29"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8607-Chengdu-Airlines/n9OMfWoZ" title="View detailed Information about this airframe"> B-8607 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   27. Sep 2016   Active   
+  <span class="testreg">B-000L</span>     
+  <a href="/correction/Airbus/A320/n9OMfWoZ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=76yJS0yd" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/76yJS0yd" id="photolink_A320_76yJS0yd_30"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8608-Chengdu-Airlines/76yJS0yd" title="View detailed Information about this airframe"> B-8608 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   09. Nov 2016   Active   
+  <span class="testreg">B-000Q</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/76yJS0yd" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=OpeRtPgZ" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/OpeRtPgZ" id="photolink_A320_OpeRtPgZ_31"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8609-Chengdu-Airlines/OpeRtPgZ" title="View detailed Information about this airframe"> B-8609 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   21. Nov 2016   Active   
+  <span class="testreg">B-000G</span>     
+  <a href="/correction/Airbus/A320/OpeRtPgZ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=yQjRsJ0j" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/yQjRsJ0j" id="photolink_A320_yQjRsJ0j_32"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8610-Chengdu-Airlines/yQjRsJ0j" title="View detailed Information about this airframe"> B-8610 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   15. Dec 2016   Active   
+  <span class="testreg">B-000N</span>     
+  <a href="/correction/Airbus/A320/yQjRsJ0j" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=wllACY8J" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/wllACY8J" id="photolink_A319_wllACY8J_33"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-8852-Chengdu-Airlines/wllACY8J" title="View detailed Information about this airframe"> B-8852 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115(WL)</a>   29. Dec 2017   Active   
+  <span class="testreg">D-AVWY</span>     
+  <a href="/correction/Airbus/A319/wllACY8J" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=bwpkF86b" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/bwpkF86b" id="photolink_A319_bwpkF86b_34"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-8853-Chengdu-Airlines/bwpkF86b" title="View detailed Information about this airframe"> B-8853 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115(WL)</a>   29. Dec 2017   Active   
+  <span class="testreg">D-AVWD</span>     
+  <a href="/correction/Airbus/A319/bwpkF86b" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=q9gnfQ4y" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/q9gnfQ4y" id="photolink_A320_q9gnfQ4y_35"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8875-Chengdu-Airlines/q9gnfQ4y" title="View detailed Information about this airframe"> B-8875 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   13. Feb 2017   Active   
+  <span class="testreg">B-000R</span>     
+  <a href="/correction/Airbus/A320/q9gnfQ4y" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-8876-Chengdu-Airlines/MqlEcB6N" title="View detailed Information about this airframe"> B-8876 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   21. Mar 2017   Active   
+  <span class="testreg">B-000P</span>     
+  <a href="/correction/Airbus/A320/MqlEcB6N" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=D6NJH6RN" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/D6NJH6RN" id="photolink_A320_D6NJH6RN_37"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8877-Chengdu-Airlines/D6NJH6RN" title="View detailed Information about this airframe"> B-8877 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   11. Apr 2017   Active   
+  <span class="testreg">B-000C</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/D6NJH6RN" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=46WjTW65" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/46WjTW65" id="photolink_A320_46WjTW65_38"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8878-Chengdu-Airlines/46WjTW65" title="View detailed Information about this airframe"> B-8878 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   10. May 2017   Active   
+  <span class="testreg">B-000Q</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ABC Financial Leasing   
+  <a href="/correction/Airbus/A320/46WjTW65" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-8879-Chengdu-Airlines/g98rTMx1" title="View detailed Information about this airframe"> B-8879 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   11. Jul 2017   Active   
+  <span class="testreg">B-000D</span>     
+  <a href="/correction/Airbus/A320/g98rTMx1" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=ZBMnsyL9" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/ZBMnsyL9" id="photolink_A320_ZBMnsyL9_40"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-9985-Chengdu-Airlines/ZBMnsyL9" title="View detailed Information about this airframe"> B-9985 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   01. Nov 2013   Active   D-ABNC   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CALC   
+  <a href="/correction/Airbus/A320/ZBMnsyL9" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=ARJ21&amp;codeId=naPxIla" class="airframe-photo-link" data-link="/photos/airframe/COMAC/ARJ21/naPxIla" id="photolink_ARJ21_naPxIla_41"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/COMAC/ARJ21/B-00NX-COMAC/naPxIla" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>   Due   Planned   B-00NX     
+  <a href="/correction/COMAC/ARJ21/naPxIla" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/COMAC/ARJ21/B-Chengdu-Airlines/J8OgTNM" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>     On Order   
+  <span class="testreg">B-001V</span>     
+  <a href="/correction/COMAC/ARJ21/J8OgTNM" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/COMAC/ARJ21/B-Chengdu-Airlines/65pgCLM" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/COMAC/ARJ21">COMAC ARJ21-700</a>     On Order   
+  <span class="testreg">B-001W</span>     
+  <a href="/correction/COMAC/ARJ21/65pgCLM" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-Chengdu-Airlines/E89ahZkd" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>     On Order   
+  <span class="testreg">B-000H</span>     
+  <a href="/correction/Airbus/A320/E89ahZkd" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>

@@ -1,0 +1,502 @@
+<html>
+ <head></head>
+ <body>   
+  <a href="/photo/search?type=A321&amp;codeId=qY5dHDD8" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/qY5dHDD8" id="photolink_A321_qY5dHDD8_0"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-1012-Beijing-Capital-Airlines/qY5dHDD8" title="View detailed Information about this airframe"> B-1012 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   22. Dec 2017   Active   
+  <span class="testreg">D-AVZU</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CMB Financial Leasing   
+  <a href="/correction/Airbus/A321/qY5dHDD8" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=kElQFR1g" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/kElQFR1g" id="photolink_A321_kElQFR1g_1"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-1013-Beijing-Capital-Airlines/kElQFR1g" title="View detailed Information about this airframe"> B-1013 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   28. Dec 2017   Active   
+  <span class="testreg">D-AVYP</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CMB Financial Leasing   
+  <a href="/correction/Airbus/A321/kElQFR1g" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=lEO2s7N5" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/lEO2s7N5" id="photolink_A321_lEO2s7N5_2"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-1015-Beijing-Capital-Airlines/lEO2s7N5" title="View detailed Information about this airframe"> B-1015 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   28. Dec 2017   Active   
+  <span class="testreg">D-AYAB</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CMB Financial Leasing   
+  <a href="/correction/Airbus/A321/lEO2s7N5" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=bwkXuwg" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/bwkXuwg" id="photolink_A330_bwkXuwg_3"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-1042-Beijing-Capital-Airlines/bwkXuwg" title="View detailed Information about this airframe"> B-1042 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-343</a>     On Order   
+  <span class="testreg">F-WWKY</span>     
+  <a href="/correction/Airbus/A330/bwkXuwg" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A330/B-1043-Beijing-Capital-Airlines/95M4TnX" title="View detailed Information about this airframe"> B-1043 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>     On Order   
+  <span class="testreg">F-WWKU</span>     
+  <a href="/correction/Airbus/A330/95M4TnX" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1246-Beijing-Capital-Airlines/dwOoT3n1" title="View detailed Information about this airframe"> B-1246 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-251N</a>     On Order   
+  <span class="testreg">F-WWII</span>     
+  <a href="/correction/Airbus/A320/dwOoT3n1" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1247-Beijing-Capital-Airlines/ePZQUGXY" title="View detailed Information about this airframe"> B-1247 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-251N</a>     On Order   
+  <span class="testreg">F-WWTS</span>     
+  <a href="/correction/Airbus/A320/ePZQUGXY" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-1249-Beijing-Capital-Airlines/JeyXuZZ2" title="View detailed Information about this airframe"> B-1249 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-251N</a>     On Order   
+  <span class="testreg">F-WWBK</span>     
+  <a href="/correction/Airbus/A320/JeyXuZZ2" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=BeXgIk3P" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/BeXgIk3P" id="photolink_A320_BeXgIk3P_8"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1603-Beijing-Capital-Airlines/BeXgIk3P" title="View detailed Information about this airframe"> B-1603 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   24. Oct 2014   Active   
+  <span class="testreg">B-504L</span>     
+  <a href="/correction/Airbus/A320/BeXgIk3P" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=yLGoIJyX" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/yLGoIJyX" id="photolink_A320_yLGoIJyX_9"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1621-Beijing-Capital-Airlines/yLGoIJyX" title="View detailed Information about this airframe"> B-1621 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   23. Sep 2014   Active   
+  <span class="testreg">F-WWDF</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC, 
+  <span class="ProdListDesc">vip.com</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A320/yLGoIJyX" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=jQ6eUD9K" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/jQ6eUD9K" id="photolink_A320_jQ6eUD9K_10"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1622-Beijing-Capital-Airlines/jQ6eUD9K" title="View detailed Information about this airframe"> B-1622 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   25. Sep 2014   Active   
+  <span class="testreg">F-WWDM</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A320/jQ6eUD9K" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=9e7pIq05" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/9e7pIq05" id="photolink_A320_9e7pIq05_11"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1623-Beijing-Capital-Airlines/9e7pIq05" title="View detailed Information about this airframe"> B-1623 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   04. Dec 2014   Active   
+  <span class="testreg">F-WWIJ</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A320/9e7pIq05" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=jQOdcDp0" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/jQOdcDp0" id="photolink_A320_jQOdcDp0_12"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1642-Beijing-Capital-Airlines/jQOdcDp0" title="View detailed Information about this airframe"> B-1642 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   21. Jan 2015   Active   
+  <span class="testreg">F-WWDX</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ALAFCO   
+  <a href="/correction/Airbus/A320/jQOdcDp0" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=0QkRFj19" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/0QkRFj19" id="photolink_A320_0QkRFj19_13"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1643-Beijing-Capital-Airlines/0QkRFj19" title="View detailed Information about this airframe"> B-1643 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   16. Feb 2015   Active   
+  <span class="testreg">D-AXAV</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ALAFCO   
+  <a href="/correction/Airbus/A320/0QkRFj19" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=1ZMnu24N" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/1ZMnu24N" id="photolink_A320_1ZMnu24N_14"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1691-Beijing-Capital-Airlines/1ZMnu24N" title="View detailed Information about this airframe"> B-1691 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232(WL)</a>   12. May 2015   Active   
+  <span class="testreg">F-WWDP</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A320/1ZMnu24N" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=5O4yCp5b" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/5O4yCp5b" id="photolink_A320_5O4yCp5b_15"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1809-Beijing-Capital-Airlines/5O4yCp5b" title="View detailed Information about this airframe"> B-1809 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   18. Feb 2014   Active   
+  <span class="testreg">B-520L</span>     
+  <a href="/correction/Airbus/A320/5O4yCp5b" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=yLXZcJP6" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/yLXZcJP6" id="photolink_A320_yLXZcJP6_16"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1810-Beijing-Capital-Airlines/yLXZcJP6" title="View detailed Information about this airframe"> B-1810 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   13. Jun 2014   Active   
+  <span class="testreg">B-520L</span>     
+  <a href="/correction/Airbus/A320/yLXZcJP6" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=nwkETWXq" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/nwkETWXq" id="photolink_A320_nwkETWXq_17"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-1811-Beijing-Capital-Airlines/nwkETWXq" title="View detailed Information about this airframe"> B-1811 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   11. Jul 2014   Active   
+  <span class="testreg">B-504L</span>     
+  <a href="/correction/Airbus/A320/nwkETWXq" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=65EMSo7d" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/65EMSo7d" id="photolink_A321_65EMSo7d_18"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-300E-Beijing-Capital-Airlines/65EMSo7d" title="View detailed Information about this airframe"> B-300E </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>     On Order   
+  <span class="testreg">D-AYAK</span>     
+  <a href="/correction/Airbus/A321/65EMSo7d" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=L6YYColr" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/L6YYColr" id="photolink_A321_L6YYColr_19"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-300F-Beijing-Capital-Airlines/L6YYColr" title="View detailed Information about this airframe"> B-300F </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   13. Apr 2018   Active   
+  <span class="testreg">D-AVXO</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CMB Financial Leasing   
+  <a href="/correction/Airbus/A321/L6YYColr" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=bwbZU8y2" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/bwbZU8y2" id="photolink_A321_bwbZU8y2_20"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-300G-Beijing-Capital-Airlines/bwbZU8y2" title="View detailed Information about this airframe"> B-300G </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   25. May 2018   Active   
+  <span class="testreg">D-AVXV</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> CMB Financial Leasing   
+  <a href="/correction/Airbus/A321/bwbZU8y2" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Hawker-Beechcraft/Hawker-4000/B-3906-Beijing-Capital-Airlines/pqk9hYb" title="View detailed Information about this airframe"> B-3906 </a>   Hawker Beechcraft 4000   03. Feb 2010   Active   
+  <span class="testreg">N6455T</span>     
+  <a href="/correction/Hawker-Beechcraft/Hawker-4000/pqk9hYb" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=W1w2fa95" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/W1w2fa95" id="photolink_A319_W1w2fa95_22"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6169-Beijing-Capital-Airlines/W1w2fa95" title="View detailed Information about this airframe"> B-6169 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-112</a>   04. May 2010   Active   
+  <span class="testreg">D-AVXJ</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ICBC   
+  <a href="/correction/Airbus/A319/W1w2fa95" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=WDEyuaEg" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/WDEyuaEg" id="photolink_A319_WDEyuaEg_23"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6177-Beijing-Capital-Airlines/WDEyuaEg" title="View detailed Information about this airframe"> B-6177 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-112</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYY</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> ICBC   
+  <a href="/correction/Airbus/A319/WDEyuaEg" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=W2dNhaZy" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/W2dNhaZy" id="photolink_A319_W2dNhaZy_24"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6178-Beijing-Capital-Airlines/W2dNhaZy" title="View detailed Information about this airframe"> B-6178 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">D-AVWK</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Operated by">opby</span> 
+  <a href="/airline/Deer-Jet" class="blue">Deer Jet</a>   
+  <a href="/correction/Airbus/A319/W2dNhaZy" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=eDJqTwRe" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/eDJqTwRe" id="photolink_A319_eDJqTwRe_25"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6179-Beijing-Capital-Airlines/eDJqTwRe" title="View detailed Information about this airframe"> B-6179 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">D-AVWR</span>     
+  <a href="/correction/Airbus/A319/eDJqTwRe" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=9brgsGLa" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/9brgsGLa" id="photolink_A319_9brgsGLa_26"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6180-Beijing-Capital-Airlines/9brgsGLa" title="View detailed Information about this airframe"> B-6180 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYA</span>   
+  <span class="ProdListDesc">DuJiangYan</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A319/9brgsGLa" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=KkDPILlB" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/KkDPILlB" id="photolink_A319_KkDPILlB_27"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6181-Beijing-Capital-Airlines/KkDPILlB" title="View detailed Information about this airframe"> B-6181 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYB</span>     
+  <a href="/correction/Airbus/A319/KkDPILlB" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=krQNUjPr" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/krQNUjPr" id="photolink_A319_krQNUjPr_28"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6182-Beijing-Capital-Airlines/krQNUjPr" title="View detailed Information about this airframe"> B-6182 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">D-AVWA</span>     
+  <a href="/correction/Airbus/A319/krQNUjPr" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=rDl6iDbE" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/rDl6iDbE" id="photolink_A319_rDl6iDbE_29"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6199-Beijing-Capital-Airlines/rDl6iDbE" title="View detailed Information about this airframe"> B-6199 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-112</a>   01. Apr 2010   Active   
+  <span class="testreg">D-AVWP</span>     
+  <a href="/correction/Airbus/A319/rDl6iDbE" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=BkO7ToJn" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/BkO7ToJn" id="photolink_A319_BkO7ToJn_30"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6210-Beijing-Capital-Airlines/BkO7ToJn" title="View detailed Information about this airframe"> B-6210 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYK</span>     
+  <a href="/correction/Airbus/A319/BkO7ToJn" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=2nrah9BX" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/2nrah9BX" id="photolink_A319_2nrah9BX_31"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6211-Beijing-Capital-Airlines/2nrah9BX" title="View detailed Information about this airframe"> B-6211 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-115</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYO</span>     
+  <a href="/correction/Airbus/A319/2nrah9BX" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=lbKyhOyy" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/lbKyhOyy" id="photolink_A319_lbKyhOyy_32"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6215-Beijing-Capital-Airlines/lbKyhOyy" title="View detailed Information about this airframe"> B-6215 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-112</a>   04. May 2010   Active   
+  <span class="testreg">D-AVXR</span>     
+  <a href="/correction/Airbus/A319/lbKyhOyy" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=e8qZuwgP" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/e8qZuwgP" id="photolink_A319_e8qZuwgP_33"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6222-Beijing-Capital-Airlines/e8qZuwgP" title="View detailed Information about this airframe"> B-6222 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-112</a>   04. May 2010   Active   
+  <span class="testreg">D-AVXL</span>     
+  <a href="/correction/Airbus/A319/e8qZuwgP" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=obBRC0gj" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/obBRC0gj" id="photolink_A319_obBRC0gj_34"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6245-Beijing-Capital-Airlines/obBRC0gj" title="View detailed Information about this airframe"> B-6245 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-133</a>   04. May 2010   Active   
+  <span class="testreg">D-AVYW</span>   
+  <span class="ProdListDesc">Manzhouli</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A319/obBRC0gj" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=9b5lTGdJ" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/9b5lTGdJ" id="photolink_A319_9b5lTGdJ_35"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6400-Beijing-Capital-Airlines/9b5lTGdJ" title="View detailed Information about this airframe"> B-6400 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">B-502L</span>     
+  <a href="/correction/Airbus/A319/9b5lTGdJ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=q87lieK0" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/q87lieK0" id="photolink_A319_q87lieK0_36"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6401-Beijing-Capital-Airlines/q87lieK0" title="View detailed Information about this airframe"> B-6401 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Stored   
+  <span class="testreg">B-510L</span>     
+  <a href="/correction/Airbus/A319/q87lieK0" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=64JQhL2l" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/64JQhL2l" id="photolink_A319_64JQhL2l_37"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6402-Beijing-Capital-Airlines/64JQhL2l" title="View detailed Information about this airframe"> B-6402 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">B-507L</span>     
+  <a href="/correction/Airbus/A319/64JQhL2l" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=70AMIoB6" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/70AMIoB6" id="photolink_A319_70AMIoB6_38"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6403-Beijing-Capital-Airlines/70AMIoB6" title="View detailed Information about this airframe"> B-6403 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">B-509L</span>     
+  <a href="/correction/Airbus/A319/70AMIoB6" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=Kl0qsDD4" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/Kl0qsDD4" id="photolink_A319_Kl0qsDD4_39"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6405-Beijing-Capital-Airlines/Kl0qsDD4" title="View detailed Information about this airframe"> B-6405 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-132</a>   04. May 2010   Active   
+  <span class="testreg">B-511L</span>     
+  <a href="/correction/Airbus/A319/Kl0qsDD4" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>
+<html>
+ <head></head>
+ <body>   
+  <a href="/photo/search?type=A319&amp;codeId=dNOMf7rD" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/dNOMf7rD" id="photolink_A319_dNOMf7rD_0"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6415-Beijing-Capital-Airlines/dNOMf7rD" title="View detailed Information about this airframe"> B-6415 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-133</a>   08. Dec 2010   Active   
+  <span class="testreg">B-516L</span>     
+  <a href="/correction/Airbus/A319/dNOMf7rD" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A319&amp;codeId=qGxGUZ0J" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A319/qGxGUZ0J" id="photolink_A319_qGxGUZ0J_1"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A319/B-6416-Beijing-Capital-Airlines/qGxGUZ0J" title="View detailed Information about this airframe"> B-6416 </a>   
+  <a href="/production-list/Airbus/A319">Airbus A319-133</a>   08. Dec 2010   Active   
+  <span class="testreg">D-AVYK</span>     
+  <a href="/correction/Airbus/A319/qGxGUZ0J" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=dNOgs7rr" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/dNOgs7rr" id="photolink_A320_dNOgs7rr_2"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6709-Beijing-Capital-Airlines/dNOgs7rr" title="View detailed Information about this airframe"> B-6709 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   19. Aug 2010   Stored   
+  <span class="testreg">D-AVVH</span>   
+  <span class="ProdListDesc">Choiskycn</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A320/dNOgs7rr" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=x7xJhLAq" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/x7xJhLAq" id="photolink_A320_x7xJhLAq_3"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6710-Beijing-Capital-Airlines/x7xJhLAq" title="View detailed Information about this airframe"> B-6710 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   30. Sep 2010   Active   
+  <span class="testreg">F-WWDT</span>     
+  <a href="/correction/Airbus/A320/x7xJhLAq" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=QoBdcxn2" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/QoBdcxn2" id="photolink_A320_QoBdcxn2_4"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6723-Beijing-Capital-Airlines/QoBdcxn2" title="View detailed Information about this airframe"> B-6723 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   03. Nov 2010   Active   
+  <span class="testreg">D-AUBE</span>     
+  <a href="/correction/Airbus/A320/QoBdcxn2" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=dNrnF7dx" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/dNrnF7dx" id="photolink_A320_dNrnF7dx_5"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6725-Beijing-Capital-Airlines/dNrnF7dx" title="View detailed Information about this airframe"> B-6725 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   05. Nov 2010   Stored   
+  <span class="testreg">F-WWBZ</span>   
+  <span class="ProdListDesc">Paul Frank</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A320/dNrnF7dx" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=2oOdCqBK" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/2oOdCqBK" id="photolink_A320_2oOdCqBK_6"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6726-Beijing-Capital-Airlines/2oOdCqBK" title="View detailed Information about this airframe"> B-6726 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   30. Nov 2010   Active   
+  <span class="testreg">F-WWBC</span>     
+  <a href="/correction/Airbus/A320/2oOdCqBK" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=M4RgcJND" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/M4RgcJND" id="photolink_A320_M4RgcJND_7"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6746-Beijing-Capital-Airlines/M4RgcJND" title="View detailed Information about this airframe"> B-6746 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   19. Feb 2011   Active   
+  <span class="testreg">F-WWIH</span>     
+  <a href="/correction/Airbus/A320/M4RgcJND" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=QoQZfx7p" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/QoQZfx7p" id="photolink_A320_QoQZfx7p_8"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6747-Beijing-Capital-Airlines/QoQZfx7p" title="View detailed Information about this airframe"> B-6747 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   02. Jun 2011   Active   
+  <span class="testreg">B-506L</span>     
+  <a href="/correction/Airbus/A320/QoQZfx7p" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=x0yxULD8" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/x0yxULD8" id="photolink_A320_x0yxULD8_9"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6748-Beijing-Capital-Airlines/x0yxULD8" title="View detailed Information about this airframe"> B-6748 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   24. Jun 2011   Active   
+  <span class="testreg">B-512L</span>     
+  <a href="/correction/Airbus/A320/x0yxULD8" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=1YlPHD7O" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/1YlPHD7O" id="photolink_A320_1YlPHD7O_10"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6769-Beijing-Capital-Airlines/1YlPHD7O" title="View detailed Information about this airframe"> B-6769 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   26. Apr 2012   Active   
+  <span class="testreg">F-WWIT</span>     
+  <a href="/correction/Airbus/A320/1YlPHD7O" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=OXqJs0Do" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/OXqJs0Do" id="photolink_A320_OXqJs0Do_11"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6795-Beijing-Capital-Airlines/OXqJs0Do" title="View detailed Information about this airframe"> B-6795 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   04. Aug 2011   Active   
+  <span class="testreg">B-518L</span>     
+  <a href="/correction/Airbus/A320/OXqJs0Do" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=8bw7TBq9" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/8bw7TBq9" id="photolink_A320_8bw7TBq9_12"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6858-Beijing-Capital-Airlines/8bw7TBq9" title="View detailed Information about this airframe"> B-6858 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   16. Dec 2014	  Active
+  <a href="/correction/Airbus/A320/8bw7TBq9" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=G7l6CQ4b" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/G7l6CQ4b" id="photolink_A320_G7l6CQ4b_13"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6859-Beijing-Capital-Airlines/G7l6CQ4b" title="View detailed Information about this airframe"> B-6859 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   02. Apr 2012   Active   
+  <span class="testreg">F-WWDK</span>   
+  <span class="ProdListDesc">HNA Telecom (海航通信)</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A320/G7l6CQ4b" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=YLpehrNQ" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/YLpehrNQ" id="photolink_A320_YLpehrNQ_14"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6867-Beijing-Capital-Airlines/YLpehrNQ" title="View detailed Information about this airframe"> B-6867 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   24. Apr 2013   Active   
+  <span class="testreg">B-509L</span>     
+  <a href="/correction/Airbus/A320/YLpehrNQ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=4QZ4fA6e" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/4QZ4fA6e" id="photolink_A320_4QZ4fA6e_15"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6869-Beijing-Capital-Airlines/4QZ4fA6e" title="View detailed Information about this airframe"> B-6869 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   04. Jun 2013   Active   
+  <span class="testreg">D-AUBP</span>     
+  <a href="/correction/Airbus/A320/4QZ4fA6e" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=J5AytNOR" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/J5AytNOR" id="photolink_A320_J5AytNOR_16"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6898-Beijing-Capital-Airlines/J5AytNOR" title="View detailed Information about this airframe"> B-6898 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-232</a>   28. Jun 2012   Active   
+  <span class="testreg">F-WWDX</span>     
+  <a href="/correction/Airbus/A320/J5AytNOR" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=JG1JFNWw" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/JG1JFNWw" id="photolink_A320_JG1JFNWw_17"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6952-Beijing-Capital-Airlines/JG1JFNWw" title="View detailed Information about this airframe"> B-6952 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   24. Oct 2012   Active   
+  <span class="testreg">F-WWIO</span>     
+  <a href="/correction/Airbus/A320/JG1JFNWw" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=q6L7fZxY" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/q6L7fZxY" id="photolink_A320_q6L7fZxY_18"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-6958-Beijing-Capital-Airlines/q6L7fZxY" title="View detailed Information about this airframe"> B-6958 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214</a>   11. Jan 2013   Active   
+  <span class="testreg">B-511L</span>     
+  <a href="/correction/Airbus/A320/q6L7fZxY" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=8NKLs6x" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/8NKLs6x" id="photolink_A330_8NKLs6x_19"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8019-Beijing-Capital-Airlines/8NKLs6x" title="View detailed Information about this airframe"> B-8019 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   09. Jul 2015   Active   EI-FLG   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> AerCap   
+  <a href="/correction/Airbus/A330/8NKLs6x" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=y3RjSJbA" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/y3RjSJbA" id="photolink_A320_y3RjSJbA_20"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8072-Beijing-Capital-Airlines/y3RjSJbA" title="View detailed Information about this airframe"> B-8072 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   20. Aug 2015   Active   
+  <span class="testreg">F-WWDU</span>     
+  <a href="/correction/Airbus/A320/y3RjSJbA" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=G-V&amp;codeId=pqkPTnZ" class="airframe-photo-link" data-link="/photos/airframe/Gulfstream-Aerospace/G-V/pqkPTnZ" id="photolink_G-V_pqkPTnZ_21"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Gulfstream-Aerospace/G-V/B-8097-Beijing-Capital-Airlines/pqkPTnZ" title="View detailed Information about this airframe"> B-8097 </a>   Gulfstream Aerospace G-V Gulfstream V   09. Apr 2010   Active   N721MM     
+  <a href="/correction/Gulfstream-Aerospace/G-V/pqkPTnZ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=G-V&amp;codeId=Zjn5uydN" class="airframe-photo-link" data-link="/photos/airframe/Gulfstream-Aerospace/G-V/Zjn5uydN" id="photolink_G-V_Zjn5uydN_22"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Gulfstream-Aerospace/G-V/B-8100-Beijing-Capital-Airlines/Zjn5uydN" title="View detailed Information about this airframe"> B-8100 </a>   Gulfstream Aerospace G-V-SP Gulfstream G550   09. Apr 2010   Active   N424GA     
+  <a href="/correction/Gulfstream-Aerospace/G-V/Zjn5uydN" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=X3NWsa2e" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/X3NWsa2e" id="photolink_A321_X3NWsa2e_23"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8107-Beijing-Capital-Airlines/X3NWsa2e" title="View detailed Information about this airframe"> B-8107 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   30. Dec 2015   Active   
+  <span class="testreg">D-AYAT</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A321/X3NWsa2e" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=G-V&amp;codeId=oxR6i7dl" class="airframe-photo-link" data-link="/photos/airframe/Gulfstream-Aerospace/G-V/oxR6i7dl" id="photolink_G-V_oxR6i7dl_24"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Gulfstream-Aerospace/G-V/B-8108-Beijing-Capital-Airlines/oxR6i7dl" title="View detailed Information about this airframe"> B-8108 </a>   Gulfstream Aerospace G-V-SP Gulfstream G550   09. Apr 2010   Active   N284SD     
+  <a href="/correction/Gulfstream-Aerospace/G-V/oxR6i7dl" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=Jbpjt7oP" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/Jbpjt7oP" id="photolink_A320_Jbpjt7oP_25"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8169-Beijing-Capital-Airlines/Jbpjt7oP" title="View detailed Information about this airframe"> B-8169 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   24. Sep 2015   Active   
+  <span class="testreg">F-WWIK</span>     
+  <a href="/correction/Airbus/A320/Jbpjt7oP" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=5lj8hp1Y" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/5lj8hp1Y" id="photolink_A320_5lj8hp1Y_26"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8170-Beijing-Capital-Airlines/5lj8hp1Y" title="View detailed Information about this airframe"> B-8170 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   29. Dec 2015   Active   
+  <span class="testreg">B-000D</span>     
+  <a href="/correction/Airbus/A320/5lj8hp1Y" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=DaYZu62B" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/DaYZu62B" id="photolink_A320_DaYZu62B_27"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-8171-Beijing-Capital-Airlines/DaYZu62B" title="View detailed Information about this airframe"> B-8171 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   29. Dec 2015   Active   
+  <span class="testreg">B-000G</span>     
+  <a href="/correction/Airbus/A320/DaYZu62B" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=7lKMi046" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/7lKMi046" id="photolink_A321_7lKMi046_28"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8187-Beijing-Capital-Airlines/7lKMi046" title="View detailed Information about this airframe"> B-8187 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   25. Nov 2015   Active   
+  <span class="testreg">D-AZAM</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Macquarie AirFinance   
+  <a href="/correction/Airbus/A321/7lKMi046" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=6l9eUWDR" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/6l9eUWDR" id="photolink_A321_6l9eUWDR_29"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8188-Beijing-Capital-Airlines/6l9eUWDR" title="View detailed Information about this airframe"> B-8188 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   30. Dec 2015   Active   
+  <span class="testreg">D-AVXL</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SKY Aviation Leasing   
+  <a href="/correction/Airbus/A321/6l9eUWDR" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=gKLRiMKX" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/gKLRiMKX" id="photolink_A321_gKLRiMKX_30"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8189-Beijing-Capital-Airlines/gKLRiMKX" title="View detailed Information about this airframe"> B-8189 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   30. Dec 2015   Active   
+  <span class="testreg">D-AVXP</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SKY Aviation Leasing   
+  <a href="/correction/Airbus/A321/gKLRiMKX" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=ajwZTQk8" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/ajwZTQk8" id="photolink_A321_ajwZTQk8_31"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8200-Beijing-Capital-Airlines/ajwZTQk8" title="View detailed Information about this airframe"> B-8200 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   31. Dec 2015   Active   
+  <span class="testreg">D-AVZI</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> BOC   
+  <a href="/correction/Airbus/A321/ajwZTQk8" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=Y40pcEd" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/Y40pcEd" id="photolink_A330_Y40pcEd_32"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8221-Beijing-Capital-Airlines/Y40pcEd" title="View detailed Information about this airframe"> B-8221 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   26. Nov 2015   Active   PK-GPI   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> AerCap, 
+  <span class="ProdListDesc">Caissa Touristic (凯撒旅游号)</span> 
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Special Colours">cs</span>   
+  <a href="/correction/Airbus/A330/Y40pcEd" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=B5pnTkRZ" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/B5pnTkRZ" id="photolink_A321_B5pnTkRZ_33"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8541-Beijing-Capital-Airlines/B5pnTkRZ" title="View detailed Information about this airframe"> B-8541 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   27. Apr 2016   Active   
+  <span class="testreg">D-AZAB</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A321/B5pnTkRZ" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=RaEPfk0e" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/RaEPfk0e" id="photolink_A321_RaEPfk0e_34"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8542-Beijing-Capital-Airlines/RaEPfk0e" title="View detailed Information about this airframe"> B-8542 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   30. May 2016   Active   
+  <span class="testreg">D-AVXO</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A321/RaEPfk0e" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=G62GfPRn" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/G62GfPRn" id="photolink_A321_G62GfPRn_35"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8543-Beijing-Capital-Airlines/G62GfPRn" title="View detailed Information about this airframe"> B-8543 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   27. Jun 2016   Active   
+  <span class="testreg">D-AZAV</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A321/G62GfPRn" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=6a5JcGd" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/6a5JcGd" id="photolink_A330_6a5JcGd_36"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8549-Beijing-Capital-Airlines/6a5JcGd" title="View detailed Information about this airframe"> B-8549 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   29. Jul 2016   Active   EI-FNK   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> AerCap   
+  <a href="/correction/Airbus/A330/6a5JcGd" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=BlPACGw" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/BlPACGw" id="photolink_A330_BlPACGw_37"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8550-Beijing-Capital-Airlines/BlPACGw" title="View detailed Information about this airframe"> B-8550 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   15. Nov 2016   Active   EI-FNL   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Apollo Aviation   
+  <a href="/correction/Airbus/A330/BlPACGw" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=1MeRf2rG" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/1MeRf2rG" id="photolink_A321_1MeRf2rG_38"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8551-Beijing-Capital-Airlines/1MeRf2rG" title="View detailed Information about this airframe"> B-8551 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   28. Jun 2016   Active   
+  <span class="testreg">D-AVZI</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SMBC   
+  <a href="/correction/Airbus/A321/1MeRf2rG" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=j9r8IDwA" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/j9r8IDwA" id="photolink_A321_j9r8IDwA_39"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8552-Beijing-Capital-Airlines/j9r8IDwA" title="View detailed Information about this airframe"> B-8552 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   19. Jul 2016   Active   
+  <span class="testreg">D-AVZY</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SMBC   
+  <a href="/correction/Airbus/A321/j9r8IDwA" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A321&amp;codeId=k9Lys79d" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A321/k9Lys79d" id="photolink_A321_k9Lys79d_40"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A321/B-8553-Beijing-Capital-Airlines/k9Lys79d" title="View detailed Information about this airframe"> B-8553 </a>   
+  <a href="/production-list/Airbus/A321">Airbus A321-231(WL)</a>   31. Aug 2016   Active   
+  <span class="testreg">D-AVYA</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SMBC   
+  <a href="/correction/Airbus/A321/k9Lys79d" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=q9oYiNG" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/q9oYiNG" id="photolink_A330_q9oYiNG_41"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8678-Beijing-Capital-Airlines/q9oYiNG" title="View detailed Information about this airframe"> B-8678 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-343</a>   14. Dec 2016   Active   
+  <span class="testreg">F-WWCG</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A330/q9oYiNG" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=MqqrcgB" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/MqqrcgB" id="photolink_A330_MqqrcgB_42"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8679-Beijing-Capital-Airlines/MqqrcgB" title="View detailed Information about this airframe"> B-8679 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-343</a>   23. Dec 2016   Active   
+  <span class="testreg">F-WWCV</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> Avolon   
+  <a href="/correction/Airbus/A330/MqqrcgB" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=A6B8CB2" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/A6B8CB2" id="photolink_A330_A6B8CB2_43"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8981-Beijing-Capital-Airlines/A6B8CB2" title="View detailed Information about this airframe"> B-8981 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   22. May 2017   Active   
+  <span class="testreg">F-WWKJ</span>     
+  <a href="/correction/Airbus/A330/A6B8CB2" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A330&amp;codeId=96WLsPk" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A330/96WLsPk" id="photolink_A330_96WLsPk_44"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A330/B-8982-Beijing-Capital-Airlines/96WLsPk" title="View detailed Information about this airframe"> B-8982 </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-243</a>   21. Jun 2017   Active   
+  <span class="testreg">F-WWCM</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> SkyCo Financial Leasing   
+  <a href="/correction/Airbus/A330/96WLsPk" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=oJ8YI737" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/oJ8YI737" id="photolink_A320_oJ8YI737_45"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-9961-Beijing-Capital-Airlines/oJ8YI737" title="View detailed Information about this airframe"> B-9961 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   14. Nov 2013   Active   
+  <span class="testreg">B-503L</span>     
+  <a href="/correction/Airbus/A320/oJ8YI737" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A320&amp;codeId=YLXdCrd5" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A320/YLXdCrd5" id="photolink_A320_YLXdCrd5_46"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A320/B-9962-Beijing-Capital-Airlines/YLXdCrd5" title="View detailed Information about this airframe"> B-9962 </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-214(WL)</a>   08. Dec 2014   Active
+  <a href="/correction/Airbus/A320/YLXdCrd5" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A350&amp;codeId=R3QJHK7" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A350/R3QJHK7" id="photolink_A350_R3QJHK7_47"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A350/B-Beijing-Capital-Airlines/R3QJHK7" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A350">Airbus A350-941</a>     On Order   
+  <span class="testreg">F-WZFR</span>   
+  <span class="moreInfo" title="" data-toggle="tooltip" data-original-title="Leased from">lsf</span> AerCap   
+  <a href="/correction/Airbus/A350/R3QJHK7" class="correction-link"><i class="fa fa-pencil"></i></a>     
+  <a href="/photo/search?type=A350&amp;codeId=0y9qsQd" class="airframe-photo-link" data-link="/photos/airframe/Airbus/A350/0y9qsQd" id="photolink_A350_0y9qsQd_48"><i class="fa fa-camera"></i></a>   
+  <a href="/airframe/Airbus/A350/B-Beijing-Capital-Airlines/0y9qsQd" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A350">Airbus A350-941</a>     On Order   
+  <span class="testreg">F-WZGQ</span>     
+  <a href="/correction/Airbus/A350/0y9qsQd" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A330/B-Beijing-Capital-Airlines/984Ni8R" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A330">Airbus A330-343</a>     On Order   
+  <span class="testreg">F-WWYJ</span>     
+  <a href="/correction/Airbus/A330/984Ni8R" class="correction-link"><i class="fa fa-pencil"></i></a>       
+  <a href="/airframe/Airbus/A320/B-Beijing-Capital-Airlines/lEqpU7Aa" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-251N</a>     On Order   
+  <span class="testreg">D-AUBZ</span>     
+  <a href="/correction/Airbus/A320/lEqpU7Aa" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>
+<html>
+ <head></head>
+ <body>     
+  <a href="/airframe/Airbus/A320/B-Beijing-Capital-Airlines/5D7ei9oK" title="View detailed Information about this airframe"> B- </a>   
+  <a href="/production-list/Airbus/A320">Airbus A320-251N</a>     On Order   
+  <span class="testreg">F-WWIS</span>     
+  <a href="/correction/Airbus/A320/5D7ei9oK" class="correction-link"><i class="fa fa-pencil"></i></a>   
+ </body>
+</html>

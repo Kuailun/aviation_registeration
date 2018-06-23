@@ -1,0 +1,28 @@
+B-2135	Boeing		737	737-45R(BDSF)  		2009/10/14  	Active	China Postal Airlines
+B-2513	Boeing		737	737-45R(BDSF)  		2010/2/12  	Active	China Postal Airlines
+B-2525	Boeing		737	737-4Q8(SF)  		2013/1/30  	Active	China Postal Airlines
+B-2526	Boeing		737	737-3Y0(BDSF)  		2006/3/30  	Active	China Postal Airlines
+B-2527	Boeing		737	737-3Y0(BDSF)  		2006/6/20  	Active	China Postal Airlines
+B-2528	Boeing		737	737-3Y0(BDSF)  		2006/9/08  	Active	China Postal Airlines
+B-2655	Boeing		737	737-3Q8(SF)  		  		China Postal Airlines
+B-2656	Boeing		737	737-3Q8(SF)  		2008/3/10  	Active	China Postal Airlines
+B-2661	Boeing		737	737-3Q8(SF)  		2007/12/28  	Active	China Postal Airlines
+B-2662	Boeing		737	737-3Q8(SF)  		2007/11/13  	Active	China Postal Airlines
+B-2823	Boeing		757	757-21B(PCF)  		2016/8/31  	Active	China Postal Airlines
+B-2824	Boeing		757	757-21B(PCF)  		2016/6/08  	Active	China Postal Airlines
+B-2825	Boeing		757	757-21B(PCF)  		2016/9/13  	Active	China Postal Airlines
+B-2827	Boeing		757	757-2Y0(PCF)  		2016/11/03  	Active	China Postal Airlines
+B-2831	Boeing		757	757-2Y0(PCF)  		  	Due Planned	China Postal Airlines
+B-2835	Boeing		757	757-236(PCF)  		2016/4/11  	Active	China Postal Airlines
+B-2881	Boeing		737	737-45R(BDSF)  		2009/9/16  	Active	China Postal Airlines
+B-2882	Boeing		737	737-45R(BDSF)  		2009/12/15  	Active	China Postal Airlines
+B-2887	Boeing		737	737-4Q8(SF)  		2012/10/17  	Active	China Postal Airlines
+B-2891	Boeing		737	737-46J(SF)  		2008/12/22  	Active	China Postal Airlines
+B-2892	Boeing		737	737-46J(SF)  		2009/3/05  	Active	China Postal Airlines
+B-2961	Boeing		737	737-35N(SF)  		2013/9/24  	Active	China Postal Airlines
+B-2962	Boeing		737	737-35N(SF)  		2013/11/14  	Active	China Postal Airlines
+B-2968	Boeing		737	737-35N(SF)  		2014/9/16  	Active	China Postal Airlines
+B-2996	Boeing		737	737-35N(SF)  		2014/6/06  	Active	China Postal Airlines
+B-5065	Boeing		737	737-36Q(SF)  		2011/6/22  	Active	China Postal Airlines
+B-5071	Boeing		737	737-341(QC)  		  		China Postal Airlines
+B-5072	Boeing		737	737-341(QC)  		  		China Postal Airlines
